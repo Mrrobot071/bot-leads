@@ -8,8 +8,8 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
-login = "lucasdsantoss2003@gmail.com"
-senha = "33832216"
+login = " "
+senha = " "
 
 options = webdriver.ChromeOptions()
 
